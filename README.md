@@ -30,7 +30,9 @@ See also this web page for a detailed explanation about **VMWare WorStation 17 a
 
 https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html
 
-We have to creat a new account in Broadcom
+We have to creat a new account in **Broadcom**
+
+https://www.broadcom.com/
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/75269a1c-6543-4198-9226-9c9ee4470baa)
 
