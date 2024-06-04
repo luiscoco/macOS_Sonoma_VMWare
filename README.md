@@ -1,6 +1,10 @@
 # How to install Mac Sonoma in VMWare virtual machine
 
-For a general explanation see this video: 
+Navigate to this official Mac URL to learn more about **Sonoma Operating System (OS): 
+
+https://www.apple.com/macos/sonoma/
+
+For a general explanation about all the steps to create a Sonoma VM in your Windows laptop see this video: 
 
 https://www.youtube.com/watch?v=h8oLSDUxDEw&t=857s
 
