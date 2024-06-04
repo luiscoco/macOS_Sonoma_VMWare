@@ -48,7 +48,12 @@ Then we run VMWare and we verify the Mac virtual machines are available
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1bce6942-9c1b-4388-a178-b6d351e585d2)
 
-## 3. 
+## 3. Create/Configure Mac Sonoma Virtual Machine (with VMWare WorkStation Pro 17)
+
+We configure the VM Ram memory. It is advisable to select minimum 8 Gb
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/64f68232-274f-4334-a5fe-aacb10ec0dac)
+
 
 
 ## 4. 
