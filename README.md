@@ -49,7 +49,7 @@ See this video "How to Download macOS 14 Sonoma ISO File":
 
 https://www.youtube.com/watch?v=cxJkQEro4lk
 
-Follow this URL link to download Mac Sonoma ISO
+Follow this URL link to **download Mac Sonoma ISO**
 
 https://drive.google.com/file/d/1FdocBt9nSuqGmNWpwkIWqXi7FbuBd8P3/view
 
