@@ -32,7 +32,13 @@ https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-pe
 
 ## 2. Download Mac Sonoma iso
 
+See this video "How to Download macOS 14 Sonoma ISO File":
 
+https://www.youtube.com/watch?v=cxJkQEro4lk
+
+Follow this URL link to download Mac Sonoma ISO
+
+https://drive.google.com/file/d/1FdocBt9nSuqGmNWpwkIWqXi7FbuBd8P3/view
 
 ## 3. How to unlock VMWare for Mac
 
