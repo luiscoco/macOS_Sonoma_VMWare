@@ -1,5 +1,19 @@
 # How to install Mac Sonoma in VMWare virtual machine
 
+## Summary
+
+- Downlaod/Install VMWare WorkStation 17 Pro
+
+- Download Mac Sonoma iso image
+
+- Unlock VMWare for Mac
+
+- Create/Configure VMWare Virtual Machine for Mac Sonoma
+
+- (OPTIONAL) Install VMWare Tools in Mac Sonoma for increasing the screen resolution
+
+## Additional information
+
 Navigate to this official Mac URL to learn more about **Sonoma Operating System (OS)**: 
 
 https://www.apple.com/macos/sonoma/
@@ -15,18 +29,6 @@ https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-pe
 For a general explanation about all the steps to create a **Mac Sonoma Virtual Machine (VMWare) in your Windows laptop** see this video: 
 
 https://www.youtube.com/watch?v=h8oLSDUxDEw&t=857s
-
-## Summary
-
-- Downlaod/Install VMWare WorkStation 17 Pro
-
-- Download Mac Sonoma iso image
-
-- Unlock VMWare for Mac
-
-- Create/Configure VMWare Virtual Machine for Mac Sonoma
-
-- (OPTIONAL) Install VMWare Tools in Mac Sonoma for increasing the screen resolution
 
 ## 1. How to download/install VMWare WorkStation 17 Pro
 
