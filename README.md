@@ -58,8 +58,6 @@ See the downloaded file
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/e6279d8a-b980-4af5-9a2c-26d83905f060)
 
-![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/a9247786-1238-4dd5-ab9d-969df1d9a861)
-
 
 
 ## 2. Download Mac Sonoma iso
