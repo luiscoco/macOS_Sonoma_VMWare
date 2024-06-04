@@ -4,7 +4,7 @@ Navigate to this official Mac URL to learn more about **Sonoma Operating System 
 
 https://www.apple.com/macos/sonoma/
 
-For a general explanation about all the steps to create a **Sonoma Virtual Machine (VMWare) in your Windows laptop** see this video: 
+For a general explanation about all the steps to create a **Mac Sonoma Virtual Machine (VMWare) in your Windows laptop** see this video: 
 
 https://www.youtube.com/watch?v=h8oLSDUxDEw&t=857s
 
