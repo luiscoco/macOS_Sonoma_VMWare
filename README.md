@@ -44,6 +44,20 @@ https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Worksta
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/4443bd82-e817-4c90-9173-1e3c8c4adb06)
 
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/4fc746b1-9f02-4b8b-9c2b-9e2d746578bb)
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1bab3ce2-cec3-4e6d-8cc4-10d3d8782497)
+
+See the downloaded file
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/0d32376a-4f13-4adb-bec2-5b137b188856)
+
+**Install VMWare WorkStation Pro 17 Administrator**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/5e0359fa-c0b5-470f-b14e-b18b49a6fc61)
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/e6279d8a-b980-4af5-9a2c-26d83905f060)
+
 
 ## 2. Download Mac Sonoma iso
 
