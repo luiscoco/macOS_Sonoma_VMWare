@@ -4,6 +4,18 @@ For a general explanation see this video:
 
 https://www.youtube.com/watch?v=h8oLSDUxDEw&t=857s
 
+## Summary
+
+Downlaod/Install VMWare WorkStation 17 Pro
+
+Download Mac Sonoma iso image
+
+Unlock VMWare for Mac
+
+Create/Configure VMWare Virtual Machine for Mac Sonoma
+
+(OPTIONAL) Install VMWare Tools in Mac Sonoma for increasing the screen resolution
+
 ## 1. How to download/install VMWare WorkStation 17 Pro
 
 See this youtube video: INSTALAR VMWARE WORKSTATION PRO O FUSION GRATIS 100% LEGAL [2024]
