@@ -126,7 +126,19 @@ Then we select the Operating System **Mac OS**  and the **version 14**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1bce6942-9c1b-4388-a178-b6d351e585d2)
 
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/71eac6f0-0bce-4bdf-80c3-c09e4dd8c528)
 
+We select the **VM name and location**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/389f2e65-a16a-41ff-882a-7537459bc57b)
+
+We input the **VM hardrive space** 
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/7b6bd122-44a6-490e-b885-0c3c59c47d07)
+
+Now we have to **customize the VM**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/b6c4a98c-a639-419d-816a-683d26a15627)
 
 We configure the **VM Ram memory**. It is advisable to select **minimum 8 Gb**
 
