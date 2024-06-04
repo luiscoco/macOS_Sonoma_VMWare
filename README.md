@@ -1,6 +1,6 @@
 # How to install Mac Sonoma in VMWare virtual machine
 
-## 1.
+## 1. How to download/install VMWare WorkStation 17 Pro
 
 
 
