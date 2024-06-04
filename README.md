@@ -102,7 +102,11 @@ In the next section we can verify the Mac Virtual Machines are available in VMWa
 
 We create a new Virtual Machine(VM)
 
+We first **open VMWare** 
+
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/f94271be-f8f1-4c8a-81ba-b8acd46dcbc5)
+
+We click on **** button 
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1be9a4da-3266-444f-8e60-03590ddc295b)
 
