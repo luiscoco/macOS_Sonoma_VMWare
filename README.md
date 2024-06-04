@@ -110,9 +110,11 @@ We click on **Create a New Virtual Machine** button
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1be9a4da-3266-444f-8e60-03590ddc295b)
 
-We then 
+We select the option we will select the operating system later and press the Next button
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/845a33d2-50c7-455c-bf4e-efcbf138a72f)
+
+Then we select the 
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1bce6942-9c1b-4388-a178-b6d351e585d2)
 
