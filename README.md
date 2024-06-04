@@ -110,7 +110,9 @@ We create a new Virtual Machine(VM)
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1bce6942-9c1b-4388-a178-b6d351e585d2)
 
-We configure the VM Ram memory. It is advisable to select minimum 8 Gb
+
+
+We configure the **VM Ram memory**. It is advisable to select **minimum 8 Gb**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/64f68232-274f-4334-a5fe-aacb10ec0dac)
 
