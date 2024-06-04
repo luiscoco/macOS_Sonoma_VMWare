@@ -30,6 +30,17 @@ See also this web page for a detailed explanation about **VMWare WorStation 17 a
 
 https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html
 
+We have to creat a new account in Broadcom
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/75269a1c-6543-4198-9226-9c9ee4470baa)
+
+We have to follow this link to download the VMWare WorStation 17 Pro for personal use
+
+https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/4443bd82-e817-4c90-9173-1e3c8c4adb06)
+
+
 ## 2. Download Mac Sonoma iso
 
 See this video "How to Download macOS 14 Sonoma ISO File":
@@ -39,6 +50,24 @@ https://www.youtube.com/watch?v=cxJkQEro4lk
 Follow this URL link to download Mac Sonoma ISO
 
 https://drive.google.com/file/d/1FdocBt9nSuqGmNWpwkIWqXi7FbuBd8P3/view
+
+This is the code for creating the ISO
+
+```
+hdiutil create -o /tmp/Sonoma -size 16384m -volname Sonoma -layout SPUD -fs HFS+J
+
+hdiutil attach /tmp/Sonoma.dmg -noverify -mountpoint /Volumes/Sonoma
+
+sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/Sonoma –nointeraction
+
+hdiutil eject -force /Volumes/Install\ macOS\ Sonoma
+
+hdiutil convert /tmp/Sonoma.dmg -format UDTO -o ~/Desktop/Sonoma
+
+mv -v ~/Desktop/Sonoma.cdr ~/Desktop/Sonoma.iso
+
+rm -fv /tmp/Sonoma.dmg
+```
 
 ## 3. How to unlock VMWare for Mac
 
