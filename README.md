@@ -2,7 +2,7 @@
 
 ## Hardware Prerequisite
 
-This sample was developed with HP laptop with these technical features:
+This sample was developed with **HP Intel EVO i7 (12th Gen Intel(R) Core(TM) i7-1260P 2.10 GHz) 16.0 GB Ram** with these technical features:
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/bf87e5a0-5fee-43c4-94b7-a347ba32878e)
 
