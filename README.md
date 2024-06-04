@@ -4,6 +4,14 @@ Navigate to this official Mac URL to learn more about **Sonoma Operating System 
 
 https://www.apple.com/macos/sonoma/
 
+See this youtube video: INSTALAR VMWARE WORKSTATION PRO O FUSION GRATIS 100% LEGAL [2024]
+
+https://www.youtube.com/watch?v=Nvzb2spWGW0
+
+See also this web page for a detailed explanation about **VMWare WorStation 17 and Fusion 13 FREE for Personal Use**
+
+https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html
+
 For a general explanation about all the steps to create a **Mac Sonoma Virtual Machine (VMWare) in your Windows laptop** see this video: 
 
 https://www.youtube.com/watch?v=h8oLSDUxDEw&t=857s
@@ -21,14 +29,6 @@ https://www.youtube.com/watch?v=h8oLSDUxDEw&t=857s
 - (OPTIONAL) Install VMWare Tools in Mac Sonoma for increasing the screen resolution
 
 ## 1. How to download/install VMWare WorkStation 17 Pro
-
-See this youtube video: INSTALAR VMWARE WORKSTATION PRO O FUSION GRATIS 100% LEGAL [2024]
-
-https://www.youtube.com/watch?v=Nvzb2spWGW0
-
-See also this web page for a detailed explanation about **VMWare WorStation 17 and Fusion 13 FREE for Personal Use**
-
-https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html
 
 We have to creat a new account in **Broadcom**
 
