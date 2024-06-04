@@ -144,7 +144,29 @@ We configure the **VM Ram memory**. It is advisable to select **minimum 8 Gb**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/64f68232-274f-4334-a5fe-aacb10ec0dac)
 
+We select the **number of processors and cores per processor**
 
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/751c16a9-659e-4cbc-95ce-7fa37477f383)
+
+We select the **Sonoma ISO immage file**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/ee50e558-c71a-40cd-a79b-67b7b2039262)
+
+We choose the **network NAT adapter**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/594efd5b-d23d-4325-82aa-c46ac12280a4)
+
+We set the **USB Controller**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/70766054-f07a-489e-bde4-66e93b5e1fc5)
+
+We leave the default values for the **Sound Card*
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/7c58c24c-3b65-4e7b-92d6-b231b08aea69)
+
+We finally input the **Display Settings**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/e3743b06-14c4-41a9-a248-de5b8cfe2712)
 
 ## 5. 
 
