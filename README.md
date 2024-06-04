@@ -1,5 +1,13 @@
 # How to install Mac Sonoma in VMWare virtual machine
 
+## Hardware Prerequisite
+
+This sample was developed with HP laptop with these technical features:
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/bf87e5a0-5fee-43c4-94b7-a347ba32878e)
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/05a19308-9135-4611-93f8-520c29ce1268)
+
 ## Summary
 
 - Downlaod/Install VMWare WorkStation 17 Pro
