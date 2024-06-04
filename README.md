@@ -106,7 +106,7 @@ We unzip the file **Unlocker-v2.0.1-x64.zip** in this github repo and press the 
 
 In the next section we can verify the Mac Virtual Machines are available in VMWare WorkStation Pro 17
 
-## 3. Create/Configure Mac Sonoma Virtual Machine (with VMWare WorkStation Pro 17)
+## 4. Create/Configure Mac Sonoma Virtual Machine (with VMWare WorkStation Pro 17)
 
 We create a new Virtual Machine(VM)
 
@@ -134,10 +134,10 @@ We configure the **VM Ram memory**. It is advisable to select **minimum 8 Gb**
 
 
 
-## 4. 
-
-
 ## 5. 
+
+
+## 6. 
 
 
 
