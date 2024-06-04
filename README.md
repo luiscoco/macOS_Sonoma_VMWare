@@ -114,7 +114,7 @@ We select the option we will select the operating system later and press the Nex
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/845a33d2-50c7-455c-bf4e-efcbf138a72f)
 
-Then we select the 
+Then we select the Operating System **Mac OS**  and the **version 14**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1bce6942-9c1b-4388-a178-b6d351e585d2)
 
