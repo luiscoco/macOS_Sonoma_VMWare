@@ -202,7 +202,14 @@ We select the **Sonoma OS and press the continue** button
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/b804839f-e376-45a5-a4f8-ced51ad12264)
 
-We select the **Country Region**
+We select the **Country Region**(Spain)
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/42a459a7-83ec-476b-b0cb-1bd8d1af8be1)
+
+We press continue in the Written and Spoken language screen
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/26ae5ac8-0e16-47d6-8a5a-200ab92da6f5)
+
 
 ## 6. 
 
