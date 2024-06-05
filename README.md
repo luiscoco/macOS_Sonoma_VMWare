@@ -216,9 +216,13 @@ We also press continue in the **Accesibility** screen
 
 We also leave the default values in the subsequent screens
 
-We select Set Up Later in the Sign in With Your Apple ID screen
+We select Set Up Later in the **Sign in With Your Apple ID** screen
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/2e98f17e-b61e-4b31-902a-d69c4eb8ce6d)
+
+We accept the **Terms and Conditions** screen
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/ba1fa781-ebca-4b90-af8d-ceca5e6fa089)
 
 
 ## 6. 
