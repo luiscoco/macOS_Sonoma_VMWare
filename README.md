@@ -194,6 +194,11 @@ We input the hard drive name and leave the other fields with the default values 
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/99383301-5274-4f26-97f1-00a421c2d17e)
 
+To continue we press the **Done button**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1386ec3b-7e3f-47b0-8a59-64e9c5c21487)
+
+
 
 ## 6. 
 
