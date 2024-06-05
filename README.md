@@ -270,3 +270,12 @@ After downloading latest Sonoma version 14.5 we have to wait for preparing the n
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/c8e5653c-3ce1-495f-8d82-430155d3053f)
 
+We have to wait for a long time to install the new Sonoma version, during this period of time the computer
+
+automatically will be restarted and finally we can login again to the Mac OS
+
+We can verify the Sonoma latest version was installed
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/359c428f-9a6c-47e9-81ae-d20fda86cfa4)
+
+
