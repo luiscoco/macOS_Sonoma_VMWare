@@ -206,9 +206,14 @@ We select the **Country Region**(Spain)
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/42a459a7-83ec-476b-b0cb-1bd8d1af8be1)
 
-We press continue in the Written and Spoken language screen
+We press continue in the **Written and Spoken language** screen
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/26ae5ac8-0e16-47d6-8a5a-200ab92da6f5)
+
+We also press continue in the **Accesibility** screen
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/ec0131fe-1baf-486d-805b-fd5b1a01d022)
+
 
 
 ## 6. 
