@@ -186,6 +186,10 @@ We first select the **Disk Utility** and press the continue button
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/a0a4e811-702c-4493-a1a4-a660582df52d)
 
+Now we have to **Erase VMWare Virtual SATA Hard Drive Media**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/6ff40d82-9bb4-4fc6-a232-a0797d0d436f)
+
 
 
 ## 6. 
