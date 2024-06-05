@@ -252,4 +252,7 @@ Click on the **Apple icon** button and then select the menu option **System Sett
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/e9c2b3d9-a870-41c6-98ef-f9ecee2434dc)
 
+We select the **Software Update Available** menu option and the press the **Update Now** bytton 
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/456e8f24-ddfd-4890-9c54-90b05f66e979)
 
