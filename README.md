@@ -224,6 +224,11 @@ We accept the **Terms and Conditions** screen
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/ba1fa781-ebca-4b90-af8d-ceca5e6fa089)
 
+We choose the **Ligth Screen** option 
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/e056fbdd-cf38-4684-a51f-a1bd87a36ae9)
+
+
 
 ## 6. 
 
