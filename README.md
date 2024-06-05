@@ -260,3 +260,6 @@ We accept the **Terms and Conditions**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/186939db-05fa-45a0-a4de-b24316eb4c14)
 
+We have to wait until the new Sonoma version is downloaded
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/0e5d4249-265b-47ed-9aa0-ec93400f04e3)
