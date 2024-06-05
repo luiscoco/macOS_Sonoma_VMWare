@@ -265,3 +265,8 @@ We accept the **Terms and Conditions**
 We have to wait until the new Sonoma version is downloaded
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/0e5d4249-265b-47ed-9aa0-ec93400f04e3)
+
+After downloading latest Sonoma version 14.5 we have to wait for preparing the new environment
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/c8e5653c-3ce1-495f-8d82-430155d3053f)
+
