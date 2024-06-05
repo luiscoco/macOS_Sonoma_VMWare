@@ -198,6 +198,10 @@ To continue we press the **Done button**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/1386ec3b-7e3f-47b0-8a59-64e9c5c21487)
 
+We select the Sonoma OS and press the continue button
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/b804839f-e376-45a5-a4f8-ced51ad12264)
+
 
 
 ## 6. 
