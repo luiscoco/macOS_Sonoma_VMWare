@@ -238,3 +238,18 @@ If you **restart the VMWare VM** you will be asked to input your **password**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/f81bb832-5ee4-4cbd-9537-4f0d5d04352e)
 
+## 6. How to Upgrade Sonoma version
+
+Click on the **Apple icon** button and then select the menu option **About this Mac**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/71a09549-e22f-4ad8-9d27-40d6b3fb4985)
+
+We can see the actual Sonoma version installed
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/f41856ff-48e2-40aa-9175-bc120f43646f)
+
+Click on the **Apple icon** button and then select the menu option **System Settings...**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/e9c2b3d9-a870-41c6-98ef-f9ecee2434dc)
+
+
