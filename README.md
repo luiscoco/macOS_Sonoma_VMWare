@@ -190,6 +190,9 @@ Now we have to **Erase VMWare Virtual SATA Hard Drive Media**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/6ff40d82-9bb4-4fc6-a232-a0797d0d436f)
 
+We input the hard drive name and leave the other fields with the default values and press the Erase button
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/99383301-5274-4f26-97f1-00a421c2d17e)
 
 
 ## 6. 
