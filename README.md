@@ -174,14 +174,17 @@ We press on **Power on this virtual machine** button
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/b291a70c-840d-49c3-b899-f42e04462647)
 
-Then we will be shown the following Mac OS running window
+Then we will be shown the following **Mac OS running window**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/60d8a64a-0478-48a1-a0ec-a5ab65589bdc)
 
-We also will be asked to select the Mac OS language, we select English
+We also will be asked to select the **Mac OS language (English)**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/9db3aeb5-3312-49f2-b6e6-2b1696a2d3b7)
 
+We first select the **Disk Utility** and press the continue button
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/a0a4e811-702c-4493-a1a4-a660582df52d)
 
 
 
