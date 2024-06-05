@@ -234,7 +234,4 @@ Finally we confirm the Mac Sonoma Operating System is fully running in our Windo
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/34849ffd-d9b8-4364-8610-19cf67ab66da)
 
-## 6. 
-
-
 
