@@ -234,4 +234,7 @@ Finally we confirm the Mac Sonoma Operating System is fully running in our Windo
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/34849ffd-d9b8-4364-8610-19cf67ab66da)
 
+If you **restart the VMWare VM** you will be asked to input your **password**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/f81bb832-5ee4-4cbd-9537-4f0d5d04352e)
 
