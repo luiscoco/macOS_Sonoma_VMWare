@@ -168,7 +168,20 @@ We finally input the **Display Settings**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/e3743b06-14c4-41a9-a248-de5b8cfe2712)
 
-## 5. 
+## 5. How to run the VM
+
+We press on **Power on this virtual machine** button
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/b291a70c-840d-49c3-b899-f42e04462647)
+
+Then we will be shown the following Mac OS running window
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/60d8a64a-0478-48a1-a0ec-a5ab65589bdc)
+
+We also will be asked to select the Mac OS language, we select English
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/da147647-0d8b-4413-bced-44fc71b11495)
+
 
 
 ## 6. 
