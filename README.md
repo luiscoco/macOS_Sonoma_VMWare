@@ -230,6 +230,8 @@ We choose the **Ligth Screen** option
 
 **IMPORTANT NOTE**: Do not forget to input the **Account name and Password** for your new Mac Sonoma during the installation last steps 
 
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/6cc60cca-72cb-4c1e-a904-f6a9e8c6c792)
+
 Finally we confirm the Mac Sonoma Operating System is fully running in our Windows laptop
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/34849ffd-d9b8-4364-8610-19cf67ab66da)
