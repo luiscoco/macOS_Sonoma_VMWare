@@ -180,7 +180,8 @@ Then we will be shown the following Mac OS running window
 
 We also will be asked to select the Mac OS language, we select English
 
-![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/da147647-0d8b-4413-bced-44fc71b11495)
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/9db3aeb5-3312-49f2-b6e6-2b1696a2d3b7)
+
 
 
 
