@@ -214,6 +214,11 @@ We also press continue in the **Accesibility** screen
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/ec0131fe-1baf-486d-805b-fd5b1a01d022)
 
+We also leave the default values in the subsequent screens
+
+We select Set Up Later in the Sign in With Your Apple ID screen
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/2e98f17e-b61e-4b31-902a-d69c4eb8ce6d)
 
 
 ## 6. 
