@@ -256,3 +256,7 @@ We select the **Software Update Available** menu option and the press the **Upda
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/456e8f24-ddfd-4890-9c54-90b05f66e979)
 
+We accept the **Terms and Conditions**
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/186939db-05fa-45a0-a4de-b24316eb4c14)
+
