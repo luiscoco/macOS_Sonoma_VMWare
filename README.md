@@ -293,9 +293,6 @@ Then we **click on the download button**
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/85345bc5-571f-4351-bd78-00264610f0b1)
 
 
-![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/688559c6-ef70-43cc-a049-bf8c4c919c9b)
-
-
 
 
 
