@@ -280,6 +280,8 @@ We can verify the Sonoma latest version was installed
 
 ## 7. VMWare Tools
 
+See this youtube video for a detailed explanation: https://www.youtube.com/watch?v=HnEMP40xYWM
+
 https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Tools
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/a9297f9a-166a-4782-9c29-ca3df37a3907)
