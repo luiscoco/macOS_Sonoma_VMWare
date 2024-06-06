@@ -278,4 +278,25 @@ We can verify the Sonoma latest version was installed
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/359c428f-9a6c-47e9-81ae-d20fda86cfa4)
 
+## 7. VMWare Tools
+
+https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Tools
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/a9297f9a-166a-4782-9c29-ca3df37a3907)
+
+We clck the check box **I agree toTerms and Conditions** 
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/7e1c7e71-1ada-472f-a4bf-f4ee65caf2af)
+
+Then we click on the download button 
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/85345bc5-571f-4351-bd78-00264610f0b1)
+
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/688559c6-ef70-43cc-a049-bf8c4c919c9b)
+
+
+
+![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/22f6a65c-edbb-4d96-9fc9-07b0c360c3bb)
+
 
