@@ -288,9 +288,7 @@ We clck the check box **I agree toTerms and Conditions**
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/22f6a65c-edbb-4d96-9fc9-07b0c360c3bb)
 
-![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/7e1c7e71-1ada-472f-a4bf-f4ee65caf2af)
-
-Then we click on the download button 
+Then we **click on the download button** 
 
 ![image](https://github.com/luiscoco/macOS_Sonoma_VMWare/assets/32194879/85345bc5-571f-4351-bd78-00264610f0b1)
 
